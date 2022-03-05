@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+beautifulsoup4 = "*"
+selenium = "*"
+
+[dev-packages]
+pylint = "*"
+pycodestyle = "*"
+autopep8 = "*"
+pytest = "*"
+pytest-cov = "*"
+twine = "*"
+python-dotenv = "*"
+mypy = "*"
+mypy-extensions = "*"
+types-requests = "*"
+wheel = "*"
+memory-profiler = "*"
+
+[requires]
+python_version = "3.10"

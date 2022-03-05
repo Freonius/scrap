@@ -1,0 +1,11 @@
+.git
+.github
+.gitattributes
+.gitignore
+README.md
+*.ipynb
+Dockerfile
+docker-compose.yml
+Makefile
+*.bat
+.lgtm.yml
